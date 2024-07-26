@@ -1,0 +1,14 @@
+.navbar-toggler-custom {
+  background-color: transparent; /* Ensure the background is transparent */
+  box-shadow: none !important; /* Remove the default border */
+  border: none !important; /* Remove the default border */
+}
+
+.navbar-toggler-custom .navbar-toggler-icon {
+  background-color: transparent; /* Ensure the background is transparent */
+  background-image: url('data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z" fill="%23fff"/%3E%3C/svg%3E');
+  background-size: 30px 30px; /* Adjust size as needed */
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=style.css.map */
